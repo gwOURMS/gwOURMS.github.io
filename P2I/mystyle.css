@@ -1,0 +1,56 @@
+/* HEADER début */
+
+h5#user,
+header h5#user {
+    padding-top: 5px;
+    margin-top: 0px;
+    margin-left: 95%;
+    color: #ffb7af;
+    font-size: small;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+
+}
+
+header h1 {
+    margin-top: 0px;
+}
+
+
+header a {
+    text-decoration: none;
+    color: #ffff00
+}
+
+.selectedPage {
+    color: #a3fff0;
+}
+
+#seDeconnecter {
+    margin-top: 10%;
+}
+
+/* PAGE DE PROFIL */
+
+.blank-space {
+    height: 350px; 
+}
+
+.big-text {
+    font-size: 24px; 
+    margin-bottom: 10px; 
+}
+
+/* Liste */
+
+.small-image {
+    width: 20px; /* Définissez la largeur souhaitée */
+    height: auto; /* Pour maintenir le rapport hauteur-largeur */
+}
